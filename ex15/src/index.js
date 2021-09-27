@@ -13,7 +13,9 @@ function myDoWhile()
     }while(i<10)
     return myNumbers;
 }
-console.log(myDoWhile());
+var MyNumbers=myDoWhile();
+
+console.log(MyNumbers);
 
 
 

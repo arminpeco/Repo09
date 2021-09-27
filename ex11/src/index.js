@@ -5,7 +5,7 @@ function switchCase(letter)
     var animals="";
    switch (letter) {
         case "a":
-            animals="anthelope";
+            animals="antelope";
            break;
         case "b":
             animals="bird";
